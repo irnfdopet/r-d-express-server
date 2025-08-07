@@ -12,10 +12,10 @@ app.use(cors());
 app.use(express.static(vueAppPath));
 
 // Start the server
-app.listen(PORT, () => {
-  console.log(`Node.js server running on http://localhost:${PORT}`);
-  console.log(`Serving Vue app from: ${vueAppPath}`);
-});
+// app.listen(PORT, () => {
+//   console.log(`Node.js server running on http://localhost:${PORT}`);
+//   console.log(`Serving Vue app from: ${vueAppPath}`);
+// });
 
 const handler = serverlessHttp(app);
 
