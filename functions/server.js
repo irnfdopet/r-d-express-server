@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const cors = require('cors');
-import ServerlessHttp from "serverless-http";
+const serverlessHttp = require('serverless-http');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -17,7 +17,7 @@ app.listen(PORT, () => {
   console.log(`Serving Vue app from: ${vueAppPath}`);
 });
 
-const handler = ServerlessHttp(app);
+const handler = serverlessHttp(app);
 
 module.exports.handler = async(event, context) => {
     const result = await handler(event, context);

@@ -6,7 +6,7 @@
     "node": "20.19.4"
   },
   "scripts": {
-    "build": "vue-cli-service build",
+    "build": "node build",
     "serve": "node functions/server.js"
   },
   "keywords": [],
