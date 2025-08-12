@@ -1244,15 +1244,15 @@ module.exports = function ($this, dummy, Wrapper) {
 
 /***/ }),
 
-/***/ 3391:
+/***/ 3390:
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_37a9de9f_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5104);
-/* harmony import */ var _node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_37a9de9f_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_37a9de9f_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_b2c4a1ee_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8389);
+/* harmony import */ var _node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_b2c4a1ee_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_b2c4a1ee_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_37a9de9f_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = function(key) { return _node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_37a9de9f_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0__[key]; }.bind(0, __WEBPACK_IMPORT_KEY__)
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_b2c4a1ee_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== "default") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = function(key) { return _node_modules_vue_style_loader_index_js_clonedRuleSet_12_use_0_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_node_modules_vue_vue_loader_v15_lib_index_js_vue_loader_options_VetstoriaWidget_vue_vue_type_style_index_0_id_b2c4a1ee_prod_scoped_true_lang_css__WEBPACK_IMPORTED_MODULE_0__[key]; }.bind(0, __WEBPACK_IMPORT_KEY__)
 /* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);
 
 
@@ -2296,24 +2296,6 @@ module.exports = getBuiltIn('Reflect', 'ownKeys') || function ownKeys(it) {
 
 /***/ }),
 
-/***/ 5104:
-/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__(9417);
-if(content.__esModule) content = content.default;
-if(typeof content === 'string') content = [[module.id, content, '']];
-if(content.locals) module.exports = content.locals;
-// add CSS to Shadow Root
-var add = (__webpack_require__(5584)/* ["default"] */ .A)
-module.exports.__inject__ = function (shadowRoot) {
-  add("ced283e2", content, shadowRoot)
-};
-
-/***/ }),
-
 /***/ 5170:
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
@@ -2444,6 +2426,31 @@ module.exports = function (index, length) {
   var integer = toIntegerOrInfinity(index);
   return integer < 0 ? max(integer + length, 0) : min(integer, length);
 };
+
+
+/***/ }),
+
+/***/ 5720:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_app_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9596);
+// Imports
+
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css);"]);
+___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_app_css__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A);
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, "", ""]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
 
 
 /***/ }),
@@ -3702,6 +3709,24 @@ $({ target: 'Iterator', proto: true, real: true, forced: FAILS_ON_INITIAL_UNDEFI
 
 /***/ }),
 
+/***/ 8389:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(5720);
+if(content.__esModule) content = content.default;
+if(typeof content === 'string') content = [[module.id, content, '']];
+if(content.locals) module.exports = content.locals;
+// add CSS to Shadow Root
+var add = (__webpack_require__(5584)/* ["default"] */ .A)
+module.exports.__inject__ = function (shadowRoot) {
+  add("2afc9276", content, shadowRoot)
+};
+
+/***/ }),
+
 /***/ 8469:
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
@@ -4276,31 +4301,6 @@ var setImmediate = globalThis.setImmediate ? schedulersFix(setTask, false) : set
 $({ global: true, bind: true, enumerable: true, forced: globalThis.setImmediate !== setImmediate }, {
   setImmediate: setImmediate
 });
-
-
-/***/ }),
-
-/***/ 9417:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_app_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9596);
-// Imports
-
-
-
-var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
-___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css);"]);
-___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_clonedRuleSet_12_use_1_node_modules_vue_vue_loader_v15_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_2_node_modules_postcss_loader_dist_cjs_js_clonedRuleSet_12_use_3_app_css__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A);
-// Module
-___CSS_LOADER_EXPORT___.push([module.id, "", ""]);
-// Exports
-/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
 
 
 /***/ }),
@@ -13001,7 +13001,7 @@ function addStyle(obj /* StyleObjectPart */, shadowRoot) {
     styleElement.appendChild(document.createTextNode(css));
   }
 }
-;// ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/VetstoriaWidget.vue?vue&type=template&id=37a9de9f&scoped=true
+;// ./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js??ruleSet[1].rules[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/VetstoriaWidget.vue?vue&type=template&id=b2c4a1ee&scoped=true
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -13024,6 +13024,12 @@ var render = function render() {
   }, [_c('h1', [_vm._v("Heading One (h1)")]), _c('h2', {
     staticClass: "mb-2"
   }, [_vm._v(_vm._s(this.initialWidgetTitle) + " (h2)")]), _vm._m(1), _c('hr'), _c('h2', {
+    staticClass: "mb-2"
+  }, [_vm._v("GTM parameters")]), _c('div', [_vm.widget.hasGtmParams ? _c('p', [_vm._v("GTM parameters detected on the client's site!")]) : _vm._e(), _vm.widget.hasGtmParams ? _c('ul', _vm._l(_vm.utmEntries, function ([key, value], index) {
+    return _c('li', {
+      key: index
+    }, [_c('strong', [_vm._v(_vm._s(key) + ":")]), _vm._v(" " + _vm._s(value) + " ")]);
+  }), 0) : _c('p', [_vm._v("No GTM parameters found.")])]), _c('hr'), _c('h2', {
     staticClass: "mb-2"
   }, [_vm._v("Posts List (h2)")]), _c('div', [_c('table', {
     staticClass: "vs-table"
@@ -13145,7 +13151,7 @@ var staticRenderFns = [function () {
   return _c('thead', [_c('tr', [_c('th', [_vm._v("ID")]), _c('th', [_vm._v("Title")]), _c('th', [_vm._v("Body")])])]);
 }];
 
-;// ./src/VetstoriaWidget.vue?vue&type=template&id=37a9de9f&scoped=true
+;// ./src/VetstoriaWidget.vue?vue&type=template&id=b2c4a1ee&scoped=true
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/web.url-search-params.delete.js
 var web_url_search_params_delete = __webpack_require__(4603);
@@ -13175,7 +13181,11 @@ var web_url_search_params_size = __webpack_require__(8721);
     return {
       posts: [],
       currentPage: 1,
-      postsPerPage: this.initialPostsPerPage
+      postsPerPage: this.initialPostsPerPage,
+      widget: {
+        hasGtmParams: false,
+        utmParameters: {}
+      }
     };
   },
   computed: {
@@ -13191,6 +13201,9 @@ var web_url_search_params_size = __webpack_require__(8721);
     },
     nextButtonState() {
       return this.currentPage === this.totalPages;
+    },
+    utmEntries() {
+      return Object.entries(this.widget.utmParameters || {});
     }
   },
   methods: {
@@ -13226,11 +13239,40 @@ var web_url_search_params_size = __webpack_require__(8721);
       const currentUrl = new URL(window.location.href);
       currentUrl.searchParams.append('widgetMessage', message);
       window.history.pushState({}, '', currentUrl.toString());
+    },
+    detectGtmParams() {
+      // Use a try-catch block for safety, as some environments might restrict access
+      try {
+        const urlParams = new URLSearchParams(window.location.search);
+        console.log('Current URL Parameters:', Object.fromEntries(urlParams.entries()));
+
+        // A list of common GTM/UTM parameters to check for
+        const gtmParams = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'gclid'];
+        gtmParams.forEach(param => {
+          if (urlParams.has(param)) {
+            this.widget.hasGtmParams = true;
+            this.widget.utmParameters[param] = urlParams.get(param);
+          }
+        });
+        if (this.widget.hasGtmParams) {
+          console.log('Detected GTM Parameters:', this.widget.utmParameters);
+          // Now you can use this data, e.g., to pass it to a backend or for internal logic
+        }
+      } catch (error) {
+        console.error('Could not access window.location.search:', error);
+      }
+    },
+    displayClientData() {
+      console.log('Detecting client document...', document);
+      console.log('Detecting client window...', window);
+      console.log('Detecting client GTM dataLayer...', window.dataLayer);
     }
   },
   mounted() {
     // Fetch posts when the component is mounted
     this.fetchPosts();
+    this.detectGtmParams();
+    this.displayClientData();
   }
 });
 ;// ./src/VetstoriaWidget.vue?vue&type=script&lang=js
@@ -13339,7 +13381,7 @@ function normalizeComponent(
 
 function injectStyles (context) {
   
-  var style0 = __webpack_require__(3391)
+  var style0 = __webpack_require__(3390)
 if (style0.__inject__) style0.__inject__(context)
 
 }
@@ -13352,7 +13394,7 @@ var component = normalizeComponent(
   staticRenderFns,
   false,
   injectStyles,
-  "37a9de9f",
+  "b2c4a1ee",
   null
   ,true
 )
